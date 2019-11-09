@@ -225,8 +225,8 @@ html, body {
 
 @media screen and (min-width: 480px) {
   .column img {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     border: 25px solid gold;
     border-radius: 0px;
     margin-left: 100px;
@@ -243,7 +243,7 @@ html, body {
 
 @media screen and (min-width: 480px) {
   .column h3 {
-    font-size: 30px;
+    font-size: 25px;
     color: white;
     margin-top: -440px;
     margin-left: 700px;
@@ -262,7 +262,7 @@ html, body {
 
 @media screen and (min-width: 480px) {
   .column p {
-    font-size: 25px;
+    font-size: 20px;
     color: white;
     margin-left: 700px;
     text-align: start;
@@ -337,8 +337,9 @@ html, body {
     display: -ms-flexbox;
     display: flex;
     float: left;
-    margin-left: 130px;
+    margin-left: 120px;
     margin-bottom: 70px;
+    width: 300px;
     height: 400px;
   }
 }
@@ -452,7 +453,7 @@ html, body {
 }
 
 .img img {
-  width: 300px;
+  width: 250px;
   height: 300px;
   -webkit-box-shadow: 10px 15px gold;
           box-shadow: 10px 15px gold;
