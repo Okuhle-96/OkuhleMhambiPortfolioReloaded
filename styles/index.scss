@@ -255,7 +255,7 @@ html, body
                 letter-spacing: 2px;
                 @media screen and(min-width:480px) {
                   
-                    font-size: 30px;
+                    font-size: 25px;
                     color: white;
                     margin-top: -440px;
                     margin-left: 700px;
@@ -275,7 +275,7 @@ html, body
                 margin-bottom: 30px;
                 @media screen and(min-width:480px) {
                   
-                    font-size: 25px;
+                    font-size: 20px;
                     color: white;
                     margin-left: 700px;
                     text-align: start;
@@ -347,8 +347,9 @@ html, body
                   
                 display: flex;
                 float: left;          
-                margin-left: 130px;   
+                margin-left: 120px;   
                 margin-bottom: 70px;
+                    width: 250px;
                 height: 400px;
                 
               }
@@ -458,7 +459,7 @@ html, body
 
                     @media screen  and(min-width:480px){
                               
-                    width: 300px;
+                    width: 250px;
                     margin-bottom: 50px;
                     
                     }
